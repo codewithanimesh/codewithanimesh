@@ -9,8 +9,8 @@ I also manage AWS Cloud infrastructure for organizational projects.
 📫 Reach me via email: kanimesh407@gmail.com
 📄 Know more about my journey in My Updated Resume
 💬 Ask me about React, Node.js, AWS, or anything else! 😊
-⚡ Fun fact: Coding is my passion! 😂😎
-🌐 Connect With Me:
+⚡ Fun fact: Coding is my passion! 😂😂😎
+🌐 Connect With Me
 
 
 
@@ -29,19 +29,19 @@ I also manage AWS Cloud infrastructure for organizational projects.
 
 
 📂 Popular Repositories
-Animesh Portfolio
+🔹 Animesh Portfolio
 Personal Portfolio Website
 HTML
 
-Universal Movies
+🔹 Universal Movies
 A movie rating website using IMDB API
 JavaScript
 
-Crew Rental
+🔹 Crew Rental
 Complete project code (Frontend + Backend)
 JavaScript
 
-MemeShare
+🔹 MemeShare
 A fun app for unlimited meme scrolling and sharing
 JavaScript
 
