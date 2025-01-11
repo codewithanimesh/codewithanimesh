@@ -1,15 +1,15 @@
-# Hi 👋, I'm 
+# Hi 👋, I'm Animesh Kumar
 
-## Full Stack Web Developer at [Your Company] | [X]+ Years of Experience in Frontend & Backend Development
+## Full Stack Web Developer at Pixel bharat. | 2.7+ Years of Experience in Frontend & Backend Development
 
 I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with expertise in AWS Cloud solutions.
 
 ### 🔭 What I'm up to
 
-- 💻 I'm currently working on [Your Current Project]
-- 🌟 All of my projects are available at [your-portfolio.com](https://your-portfolio.com)
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 📄 Know about my experiences: [My Updated Resume](your-resume-link)
+- 💻 I'm currently working on Crew-Rental Construction Web Application
+- 🌟 All of my projects are available at [animesh.co](https://animesh.co)
+- 📫 How to reach me: [laxmikantsarswat007@gmail.com](mailto:kanimesh407@gmail.com)
+- 📄 Know about my experiences: [My Updated Resume](https://animesh.co/resume)
 - 💬 Ask me about anything you want 😊 😁
 - ⚡ Fun fact: I Code for fun 😊 😎 🤓
 
@@ -33,19 +33,19 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 
 ### 🌟 Featured Projects
 
-- 🚀 [Project 1] - Brief description
-- 🌐 [Project 2] - Brief description
-- ⚡ [Project 3] - Brief description
+- 🚀 [Crew-Rental Construction Web App](https://github.com/codewithanimesh/Crew-Rental) - A web application for managing construction crew rentals
+- 🌐 [E-commerce Platform](https://github.com/codewithanimesh/E-commerce-Platform) - Full-stack e-commerce solution with React and Node.js
+- ⚡ [Weather Forecast App](https://github.com/codewithanimesh/Weather-Forecast-App) - Real-time weather forecasting using OpenWeatherMap API
 
 ### 📊 My GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikant007&layout=compact&theme=dark" alt="Most Used Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=laxmikant007&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -61,25 +61,21 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 ### 🎯 GitHub Trophies
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=laxmikant007&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laxmikant007&theme=github)
 
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://github.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laxmikant-saraswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/laxmikant_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://github.com/laxmikant007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
-
-A
-
-nim
+⭐️ From [laxmikant007](https://github.com/laxmikant007)
 
