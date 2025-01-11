@@ -63,5 +63,5 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 </p>
 
 ---
-⭐️ From [laxmikant007](https://github.com/codewithanimesh)
+⭐️ From [kanimesh407](https://github.com/codewithanimesh)
 
