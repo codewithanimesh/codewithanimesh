@@ -8,7 +8,7 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 
 - 💻 I'm currently working on Crew-Rental Construction Web Application
 - 🌟 All of my projects are available at [animesh.co](https://animesh.co)
-- 📫 How to reach me: [laxmikantsarswat007@gmail.com](mailto:kanimesh407@gmail.com)
+- 📫 How to reach me: [kanimesh407@gmail.com](mailto:kanimesh407@gmail.com)
 - 📄 Know about my experiences: [My Updated Resume](https://animesh.co/resume)
 - 💬 Ask me about anything you want 😊 😁
 - ⚡ Fun fact: I Code for fun 😊 😎 🤓
@@ -39,16 +39,6 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 
 ### 📊 My GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikant007&layout=compact&theme=dark" alt="Most Used Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=laxmikant007&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
 
 ### 🏆 GitHub Achievements
 
@@ -60,22 +50,18 @@ I'm a Full Stack Developer specializing in React.js/Next.js and Node.js, with ex
 
 ### 🎯 GitHub Trophies
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=laxmikant007&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-</p>
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laxmikant007&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithanimesh&theme=github)
 
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/laxmikant-saraswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/laxmikant_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://github.com/laxmikant007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Animesh_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://github.com/codewithanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
-⭐️ From [laxmikant007](https://github.com/laxmikant007)
+⭐️ From [laxmikant007](https://github.com/codewithanimesh)
 
